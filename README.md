@@ -1,5 +1,13 @@
 # Sistema de Gerenciamento de Estoque
 
+> [!IMPORTANT]
+> **Status: Legado / Arquivado**
+> 
+> Este projeto foi desenvolvido em Janeiro de 2026 e não representa meu nível técnico atual. 
+> Decidi mantê-lo público para documentar minha jornada de aprendizado.
+>
+> Nota: Mantenho este código apenas para fins de histórico. Hoje, meu nível técnico e minhas práticas de desenvolvimento evoluíram significativamente, priorizando metodologias que não foram aplicadas neste repositório.
+
 API RESTful para controle inteligente de produtos e movimentações de estoque, desenvolvida com FastAPI, SQLAlchemy e autenticação JWT.
 
 ## 📋 Visão Geral
